@@ -4,7 +4,7 @@
 
 🎓 Eu estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)  na  [Cubos Academy](https://cubos.academy/)
 
-✒️ Eu gosto de no meu tempo livre tocar teclado, jogar, curtir com minha familia, ir a igreja...
+✒️ Eu gosto de no meu tempo livre ir a igreja, tocar teclado, jogar, curtir com minha familia
 
 ⚡ Uma curiosidade sobre mim é que eu gosto de usar das IAs para me ajudade a estudar!
 
@@ -33,7 +33,9 @@
 
 ## 📈 GitHub Stats
 
-![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developedbyBob&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developedbyBob&layout=compact&langs_count=7&theme=dark)
+![Esdras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developedbyBob&show_icons=true&theme=dark)
+
 
 
 ## 🛠 Projetos Recentes
