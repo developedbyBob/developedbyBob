@@ -2,7 +2,7 @@
 
 💻 Eu sou um desenvolvedor Back-End | Fullstack
 
-🎓 Eu estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)  na  [Cubos Academy](https://cubos.academy/)
+🎓 Eu estudo [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) na [Cubos Academy](https://cubos.academy/)
 
 ✒️ Eu gosto de no meu tempo livre ir a igreja, tocar teclado, jogar, curtir com minha familia
 
