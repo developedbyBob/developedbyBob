@@ -40,8 +40,8 @@
 
 ## 🛠 Projetos Recentes
 
-### [Projeto 1](https://github.com/seu-usuario/projeto-1)
-Descrição breve do projeto 1.
+### [Serviço de login e registro.]([https://github.com/seu-usuario/projeto-1](https://github.com/developedbyBob/user-auth))
+Um micro-serviço robusto de autenticação de usuários utilizando Node.js, Express e MongoDB. Ele oferece funcionalidades seguras para login e registro de usuários.
 
 ### [Projeto 2](https://github.com/seu-usuario/projeto-2)
 Descrição breve do projeto 2.
