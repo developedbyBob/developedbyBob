@@ -43,8 +43,8 @@
 ### [Serviço de login e registro](https://github.com/developedbyBob/user-auth)
 Um micro-serviço robusto de autenticação de usuários utilizando Node.js, Express e MongoDB. Ele oferece funcionalidades seguras para login e registro de usuários.
 
-### [Projeto 2](https://github.com/seu-usuario/projeto-2)
-Descrição breve do projeto 2.
+### [Web Site Responsivo - Design de Sombrancelha]([https://github.com/seu-usuario/projeto-2](https://github.com/developedbyBob/web-sombrancelha)
+Web Site construido pra uma design de sombrancelha. Contendo responsividade, sistema de agendamento atraves do formulario com link para o whatsapp, construido em React com Next.
 
 ### [Projeto 3](https://github.com/seu-usuario/projeto-3)
 Descrição breve do projeto 3.
