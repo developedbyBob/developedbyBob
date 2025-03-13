@@ -10,7 +10,7 @@ Desenvolvedor Web apaixonado por tecnologia e soluções inovadoras, com experi�
 
 Busco constantemente expandir meus conhecimentos e contribuir para projetos desafiadores que me permitam crescer profissionalmente.
 
-- 🎓 Atualmente estudo **Desenvolvimento de Software Fullstack** na [Cubos Academy](https://cubos.academy/)
+- 🎓 Atualmente estudo **Desenvolvimento de Software Fullstack** 
 - 🌱 Estou aprendendo **Desenvolvimento de aplicações utilizando microserviços**
 - ✒️ No meu tempo livre gosto de ir à igreja, tocar teclado, jogar e curtir com minha família
 - ⚡ Curiosidade: Utilizo IAs como ferramenta de apoio para potencializar meus estudos
