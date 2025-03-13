@@ -64,7 +64,7 @@ Uma plataforma inovadora que permite usuários cadastrarem e trocarem habilidade
 - Sistema de avaliações de usuários
 - Pesquisa e filtro de habilidades disponíveis
 
-### [Inflame Website - Site para Evento Cristão](https://github.com/developedbyBob/inflame-website)
+### [Inflame Website - Site para Evento Cristão]([https://github.com/developedbyBob/inflame-website](https://inflamerj.com.br/))
 Site institucional responsivo desenvolvido para o evento Inflame.
 
 **Tecnologias**: Next.js, Tailwind CSS
@@ -84,7 +84,7 @@ API robusta para autenticação segura de usuários.
 - Gerenciamento de tokens de acesso
 - Recuperação de senha
 
-### [API para Processamento de PDFs e Cálculo de Custos de Entrega](https://github.com/developedbyBob/pdf-delivery-calculator)
+### [Site + API para Processamento de PDFs e Cálculo de Custos de Entrega](https://github.com/developedbyBob/caf-express-go)
 Aplicação para cálculo automatizado de custos de entrega com base em dados extraídos de PDFs.
 
 **Tecnologias**: Node.js, Express, PDF.js
