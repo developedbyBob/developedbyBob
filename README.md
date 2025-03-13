@@ -64,7 +64,7 @@ Uma plataforma inovadora que permite usuários cadastrarem e trocarem habilidade
 - Sistema de avaliações de usuários
 - Pesquisa e filtro de habilidades disponíveis
 
-### [Inflame Website - Site para Evento Cristão]([https://github.com/developedbyBob/inflame-website](https://inflamerj.com.br/))
+### [Inflame Website - Site para Evento Cristão](https://inflamerj.com.br/)
 Site institucional responsivo desenvolvido para o evento Inflame.
 
 **Tecnologias**: Next.js, Tailwind CSS
