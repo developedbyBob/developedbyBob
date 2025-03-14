@@ -54,15 +54,15 @@ Busco constantemente expandir meus conhecimentos e contribuir para projetos desa
 
 ## 🛠 Projetos em Destaque
 
-### [Skill Exchange - Plataforma de Troca de Habilidades](https://github.com/developedbyBob/skill-exchange)
-Uma plataforma inovadora que permite usuários cadastrarem e trocarem habilidades entre si. 
+### [Ponto Digital - Sistema de Registro de Ponto Eletrônico](https://github.com/developedbyBob/ponto-digital)
+Um sistema moderno de registro de ponto eletrônico para empresas, com interface amigável e múltiplos métodos de autenticação.
 
-**Tecnologias**: React, Node.js, MongoDB, Socket.io
+**Tecnologias**: Go (Gin), MongoDB, React.js, Tailwind CSS Funcionalidades:
 **Funcionalidades**:
-- Chat em tempo real entre usuários
-- Sistema de autenticação com JWT
-- Sistema de avaliações de usuários
-- Pesquisa e filtro de habilidades disponíveis
+- Autenticação segura com PIN numérico e biometria
+- Visualização detalhada de registros diários e mensais
+- Cálculo automático de horas trabalhadas e estatísticas
+- Personalização de perfil e configurações de usuário
 
 ### [Inflame Website - Site para Evento Cristão](https://inflamerj.com.br/)
 Site institucional responsivo desenvolvido para o evento Inflame.
