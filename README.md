@@ -6,44 +6,66 @@
 
 ## 💼 Sobre Mim
 
-Desenvolvedor Web apaixonado por tecnologia e soluções inovadoras, com experiência prática em projetos pessoais e mais de um ano e meio de estudos em desenvolvimento front-end e back-end. Proficiente em React, JavaScript, HTML, CSS e Node.js, além de estar aprimorando conhecimentos em Golang.
+Desenvolvedor Web Fullstack com sólida experiência em desenvolvimento front-end e crescente expertise em back-end. Especializado em criar soluções web modernas, escaláveis e de alto desempenho utilizando as mais recentes tecnologias do mercado.
 
-Busco constantemente expandir meus conhecimentos e contribuir para projetos desafiadores que me permitam crescer profissionalmente.
+Com mais de 240 horas de certificações especializadas e diversos projetos reais entregues, combino conhecimento técnico profundo com visão estratégica para transformar ideias em aplicações funcionais que geram valor real.
 
-- 🎓 Atualmente estudo **Desenvolvimento de Software Fullstack** 
-- 🌱 Estou aprendendo **Desenvolvimento de aplicações utilizando microserviços**
-- ✒️ No meu tempo livre gosto de ir à igreja, tocar teclado, jogar e curtir com minha família
-- ⚡ Curiosidade: Utilizo IAs como ferramenta de apoio para potencializar meus estudos
+- 💼 **Desenvolvedor Web Fullstack** com foco em React e Next.js
+- 🚀 Experiência comprovada em projetos reais de alta complexidade
+- 🎯 Especialista em Next.js 15, React 19, TypeScript e Golang
+- 🏗️ Arquitetura de aplicações modernas com microserviços
+- ✨ Apaixonado por clean code, performance e UX excepcional
+- ⚡ Utilizo IAs como ferramenta estratégica para potencializar desenvolvimento
+
+## 🎓 Certificações
+
+<div align="center">
+
+| Curso | Carga Horária | Instituição | Status |
+|-------|--------------|-------------|--------|
+| **Curso de React JS 19 e Next.js 15** (atualizado para 2025) | 83.5h | Udemy | ✅ Concluído |
+| **Curso de JavaScript e TypeScript** do básico ao avançado JS/TS | 146h | Udemy | ✅ Concluído |
+| **Go - The Complete Guide** | 15.5h | Udemy | ✅ Concluído |
+| **Desenvolvimento de Software Fullstack** | Em andamento | Cubos Academy | 🔄 Cursando |
+
+</div>
+
+**Total de horas certificadas:** 245+ horas em tecnologias de ponta
 
 ## 🚀 Habilidades Técnicas
 
 ### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frameworks e Bibliotecas
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Bancos de Dados
+### CMS e Backend
+![Strapi](https://img.shields.io/badge/-Strapi_5-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Ferramentas e Plataformas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Outros Conhecimentos
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -54,73 +76,164 @@ Busco constantemente expandir meus conhecimentos e contribuir para projetos desa
 
 ## 🛠 Projetos em Destaque
 
-### [Ponto Digital - Sistema de Registro de Ponto Eletrônico](https://github.com/developedbyBob/ponto-digital)
-Um sistema moderno de registro de ponto eletrônico para empresas, com interface amigável e múltiplos métodos de autenticação.
+### 🔥 [FIREMISSION - Sistema de Gerenciamento de Eventos](https://github.com/developedbyBob/firemission) | [🌐 Ver Site](https://firemission.com.br/)
+Plataforma completa de gerenciamento de inscrições e check-in para eventos solidários com tecnologia de ponta.
 
-**Tecnologias**: Go (Gin), MongoDB, React.js, Tailwind CSS Funcionalidades:
-**Funcionalidades**:
-- Autenticação segura com PIN numérico e biometria
-- Visualização detalhada de registros diários e mensais
-- Cálculo automático de horas trabalhadas e estatísticas
-- Personalização de perfil e configurações de usuário
+**Stack:** Next.js 15.2, React 19, TypeScript, MongoDB, Tailwind CSS, Framer Motion
 
-### [Inflame Website - Site para Evento Cristão](https://inflamerj.com.br/)
-Site institucional responsivo desenvolvido para o evento Inflame.
+**Destaques:**
+- 🎯 Landing page moderna com animações fluidas e countdown dinâmico
+- 📝 Sistema completo de inscrições com QR Code único para cada participante
+- 👨‍💼 Painel administrativo robusto com dashboard em tempo real
+- ✅ Sistema de check-in via leitura de QR Code
+- 📧 Emails transacionais automatizados via Resend
+- 🤖 Integração com Telegram Bot para notificações em tempo real
+- 📊 Controle de doações e estatísticas detalhadas
+- 🚀 Deploy em produção com Vercel e Railway
 
-**Tecnologias**: Next.js, Tailwind CSS
-**Funcionalidades**:
-- Design totalmente responsivo
-- Seções informativas: sobre nós, ministérios, galeria
-- Agenda de eventos
-- Formulário de contato
-
-### [Serviço de Autenticação de Usuários](https://github.com/developedbyBob/user-auth)
-API robusta para autenticação segura de usuários.
-
-**Tecnologias**: Node.js, Express, MongoDB, JWT
-**Funcionalidades**:
-- Registro e login de usuários
-- Proteção de rotas
-- Gerenciamento de tokens de acesso
-- Recuperação de senha
-
-### [Site + API para Processamento de PDFs e Cálculo de Custos de Entrega](https://github.com/developedbyBob/caf-express-go)
-Aplicação para cálculo automatizado de custos de entrega com base em dados extraídos de PDFs.
-
-**Tecnologias**: Node.js, Express, PDF.js
-**Funcionalidades**:
-- Upload de arquivos PDF
-- Extração de dados dos documentos
-- Algoritmo de cálculo de custos baseado no peso dos itens
-- Geração de relatórios
-
-### [Web Site Responsivo - Design de Sobrancelha](https://github.com/developedbyBob/web-sombrancelha)
-Site profissional para uma designer de sobrancelhas.
-
-**Tecnologias**: React, Next.js
-**Funcionalidades**:
-- Design totalmente responsivo
-- Sistema de agendamento via formulário integrado ao WhatsApp
-- Galeria de trabalhos
-- Seção de depoimentos
-
-## 📚 Formação Acadêmica e Cursos
-
-- **Desenvolvimento de Software Fullstack** - Cubos Academy (Em andamento)
-- **Desenvolvimento Web Completo (React, Angular)** - Udemy
-- **Golang Básico ao Avançado** - Udemy
-- **Oracle Next Education (ONE)** - Alura
-- **Ensino Médio Completo** - CE Álvaro Negromonte (2016)
+**Funcionalidades Técnicas:**
+- Server-side rendering (SSR) e Static Site Generation (SSG)
+- API Routes serverless otimizadas
+- Autenticação JWT com bcrypt
+- Upload e processamento de imagens
+- Geração dinâmica de QR Codes
+- Sistema de notificações em tempo real
+- Export de dados em CSV
 
 ---
 
-### 📫 Entre em Contato
+### 🚀 [Ascent - Site Institucional de Agência](https://github.com/developedbyBob/ascent-website) | [🌐 Ver Site](https://ascentmkt.com.br/)
+Site profissional de agência desenvolvido com arquitetura headless CMS e performance excepcional.
 
-- 📧 Email: [esdrassantos41@gmail.com](mailto:esdrassantos41@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/esdrasspessoa](https://www.linkedin.com/in/esdrasspessoa/)
-- 📱 Telefone: (21) 99596-0510
-- 📍 Localização: Duque de Caxias/RJ
+**Stack:** Next.js 14, TypeScript, Strapi 5, Tailwind CSS, Framer Motion, Cloudinary
+
+**Destaques:**
+- 🎨 Design moderno e totalmente responsivo
+- ⚡ Performance otimizada com Next.js 14
+- 📱 Animações suaves com Framer Motion
+- 🔧 CMS headless com Strapi 5 para gestão de conteúdo
+- ☁️ Hospedagem de mídia otimizada com Cloudinary
+- 🎯 SEO otimizado para máxima visibilidade
+- 🚀 Deploy profissional: Vercel (frontend) + Railway (backend)
+
+**Arquitetura:**
+- Separação frontend/backend
+- API RESTful com Strapi
+- CDN otimizado para assets
+- Sistema de cache inteligente
 
 ---
 
-Obrigado por visitar meu perfil! Se você quiser colaborar em algum projeto ou apenas bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato.
+### ☁️ [NuvaCloud - Plataforma de Cloud Computing](https://github.com/developedbyBob/nuvacloud) | [🌐 Ver Site](https://nuvacloud.com.br/)
+Landing page moderna para serviços de computação em nuvem com foco em conversão e experiência do usuário.
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS
+
+**Destaques:**
+- 🎯 Design focado em conversão e experiência do usuário
+- 💼 Apresentação clara de serviços e planos
+- 📊 Seção de comparação de planos interativa
+- 💬 Depoimentos de clientes integrados
+- 📱 Design 100% responsivo
+- ⚡ Performance otimizada para carregamento rápido
+- 🎨 Interface moderna com Tailwind CSS
+
+---
+
+### 🔥 [Inflame - Site para Evento Cristão](https://github.com/developedbyBob/inflame-website) | [🌐 Ver Site](https://inflamerj.com.br/)
+Site institucional responsivo desenvolvido para evento cristão com design impactante e funcionalidades específicas.
+
+**Stack:** Next.js, React, Tailwind CSS
+
+**Destaques:**
+- 🎨 Design totalmente responsivo e moderno
+- 📅 Seção de agenda de eventos atualizada
+- 🖼️ Galeria de fotos com otimização de imagens
+- ℹ️ Informações sobre ministérios e atividades
+- 📱 Formulário de contato integrado
+- ⚡ Performance excepcional
+- 🎯 Layout otimizado para engajamento
+
+---
+
+## 💡 Diferencias Técnicos
+
+### Performance & Otimização
+- Implementação de SSR e SSG para SEO e velocidade
+- Lazy loading e code splitting estratégico
+- Otimização de imagens com Next.js Image
+- Cache inteligente e CDN
+
+### Arquitetura
+- Clean Architecture e princípios SOLID
+- Componentização inteligente e reutilizável
+- Separação de responsabilidades
+- Código escalável e manutenível
+
+### UI/UX
+- Animações fluidas com Framer Motion
+- Design responsivo mobile-first
+- Acessibilidade (a11y) como prioridade
+- Interfaces intuitivas e modernas
+
+### Integrações
+- APIs RESTful
+- Webhooks e automações
+- Serviços de email transacionais
+- Bots e notificações em tempo real
+- CMS headless
+
+## 📚 Formação e Desenvolvimento
+
+### Educação Formal
+- 🎓 **Desenvolvimento de Software Fullstack** - Cubos Academy (Em andamento)
+- 📚 **Oracle Next Education (ONE)** - Alura (Concluído)
+- 🏫 **Ensino Médio Completo** - CE Álvaro Negromonte (2016)
+
+### Aprendizado Contínuo
+Busco constantemente me atualizar com as últimas tendências e tecnologias do mercado através de cursos especializados, documentações oficiais e projetos práticos.
+
+## 🎯 Objetivos Profissionais
+
+- 🚀 Construir aplicações web de alto impacto que resolvem problemas reais
+- 📈 Expandir conhecimentos em arquitetura de microserviços
+- 🌟 Contribuir para projetos open-source
+- 💼 Colaborar com equipes inovadoras em projetos desafiadores
+- 🔧 Dominar completamente o ecossistema Go (Golang)
+- ☁️ Especializar-me em soluções cloud-native
+
+## 🌟 Soft Skills
+
+- 🤝 Trabalho em equipe e colaboração
+- 💬 Comunicação clara e efetiva
+- 🎯 Foco em resultados e prazos
+- 📚 Aprendizado rápido e autodidata
+- 🔍 Atenção aos detalhes
+- 💡 Resolução criativa de problemas
+- ⚡ Adaptabilidade e flexibilidade
+
+## 📫 Entre em Contato
+
+Estou sempre aberto a novos desafios e oportunidades de colaboração!
+
+- 📧 **Email:** [esdrassantos41@gmail.com](mailto:esdrassantos41@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/esdrasspessoa](https://www.linkedin.com/in/esdrasspessoa/)
+- 🐙 **GitHub:** [github.com/developedbyBob](https://github.com/developedbyBob)
+- 📱 **Telefone/WhatsApp:** (21) 99596-0510
+- 📍 **Localização:** Duque de Caxias, Rio de Janeiro - Brasil
+
+---
+
+<div align="center">
+
+### 💭 Filosofia de Trabalho
+
+*"Código limpo não é escrito seguindo regras. Você não se torna um artesão de software simplesmente aprendendo uma lista do que fazer e não fazer. Profissionalismo e artesanato vêm de valores que impulsionam disciplinas."* - Robert C. Martin
+
+---
+
+**Desenvolvido com 💙 por Esdras Pessoa (Bob)**
+
+⭐ Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios!
+
+</div>
