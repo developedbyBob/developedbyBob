@@ -26,7 +26,6 @@ Com mais de 240 horas de certificações especializadas e diversos projetos reai
 | **Curso de React JS 19 e Next.js 15** (atualizado para 2025) | 83.5h | Udemy | ✅ Concluído |
 | **Curso de JavaScript e TypeScript** do básico ao avançado JS/TS | 146h | Udemy | ✅ Concluído |
 | **Go - The Complete Guide** | 15.5h | Udemy | ✅ Concluído |
-| **Desenvolvimento de Software Fullstack** | Em andamento | Cubos Academy | 🔄 Cursando |
 
 </div>
 
@@ -186,7 +185,7 @@ Site institucional responsivo desenvolvido para evento cristão com design impac
 ## 📚 Formação e Desenvolvimento
 
 ### Educação Formal
-- 🎓 **Desenvolvimento de Software Fullstack** - Cubos Academy (Em andamento)
+- 🎓 **Engenharia de Produção** - Unifatecie (Em andamento)
 - 📚 **Oracle Next Education (ONE)** - Alura (Concluído)
 - 🏫 **Ensino Médio Completo** - CE Álvaro Negromonte (2016)
 
