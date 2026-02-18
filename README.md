@@ -51,6 +51,9 @@ Com mais de 240 horas de certificações especializadas e diversos projetos reai
 ### CMS e Backend
 ![Strapi](https://img.shields.io/badge/-Strapi_5-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### Ferramentas e Plataformas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -74,6 +77,29 @@ Com mais de 240 horas de certificações especializadas e diversos projetos reai
 </div>
 
 ## 🛠 Projetos em Destaque
+
+### 💬 [Atos - Automação WhatsApp para Igrejas](https://github.com/developedbyBob/atos-whatsapp) | [🌐 Ver Site](#)
+Plataforma SaaS completa de automação de comunicação via WhatsApp para igrejas brasileiras.
+
+**Stack:** Next.js 16, React 19, Express 5, Supabase (PostgreSQL + RLS), Baileys, Stripe, Tailwind CSS, Framer Motion
+
+**Destaques:**
+- 📱 Conexão WhatsApp via QR Code sem API paga (Baileys)
+- 🕐 Agendamento de mensagens recorrentes e únicas com painel intuitivo
+- 📖 Devocional diário automático com scraping e cache inteligente
+- 🏢 Multi-tenant com isolamento completo por RLS no Supabase
+- 💳 Billing completo com Stripe (Checkout, Customer Portal, Webhooks)
+- 📊 Dashboard com gráficos de volume, calendário de eventos e estatísticas em tempo real
+- 🚀 Onboarding guiado em 4 steps e sistema de convites para equipe
+- 🔐 Painel super admin para gestão de tenants e logs de auditoria
+
+**Arquitetura:**
+- Pool de sessões WhatsApp por tenant (WhatsAppTenantManager)
+- Scheduler com node-cron por mensagem/tenant com rate limit inteligente (10 msgs/min)
+- Auto-reconnect em desconexões e isolamento completo de dados por RLS
+- Trial de 15 dias + 3 planos pagos (Básico, Plus, Pro)
+
+---
 
 ### 🔥 [FIREMISSION - Sistema de Gerenciamento de Eventos](https://github.com/developedbyBob/firemission) | [🌐 Ver Site](https://firemission.com.br/)
 Plataforma completa de gerenciamento de inscrições e check-in para eventos solidários com tecnologia de ponta.
@@ -181,6 +207,9 @@ Site institucional responsivo desenvolvido para evento cristão com design impac
 - Serviços de email transacionais
 - Bots e notificações em tempo real
 - CMS headless
+- WhatsApp (Baileys) sem API paga
+- Pagamentos com Stripe (Checkout, Portal, Webhooks)
+- Multi-tenant SaaS com Row Level Security
 
 ## 📚 Formação e Desenvolvimento
 
