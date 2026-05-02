@@ -78,6 +78,28 @@ Com mais de 240 horas de certificações especializadas e diversos projetos reai
 
 ## 🛠 Projetos em Destaque
 
+### 🧹 [OPERION - Plataforma SaaS para Empresas de Limpeza](#)
+Plataforma SaaS completa para gestão de empresas de limpeza profissional, com módulos de CRM, ERP, RH, financeiro e analytics.
+
+**Stack:** Next.js 16, React, TypeScript, Tailwind CSS, NestJS, PostgreSQL, Supabase, Prisma, pnpm workspaces, Turborepo
+
+**Destaques:**
+- 🏢 Multi-tenant com isolamento por organização e controle de acesso granular
+- 👥 Modelo de usuários robusto: Administrador, Colaboradores e Clientes (CRM)
+- 🔐 Sistema de permissões avançado via `user_organizations` com `role`, `collaboratorProfile`, `permissionProfile` e `permissionOverrides`
+- 📊 Módulos integrados de CRM, ERP, RH, Financeiro e Analytics
+- 🗄️ Storage isolado por organização com `organization_id` como primeiro segmento do path
+- ⚙️ Monorepo estruturado com pnpm workspaces + Turborepo
+- 🛢️ Banco PostgreSQL gerenciado via Supabase (cloud e local com Supabase CLI)
+
+**Arquitetura:**
+- Frontend Next.js 16 + Backend NestJS em monorepo TypeScript
+- Prisma como ORM com migrations versionadas
+- Buckets dedicados no Storage (contracts, employees, invoices) com isolamento por tenant
+- Subpapéis internos (gerente, supervisor) modelados via permissões, sem acoplar ao conceito de cliente
+
+---
+
 ### 💬 [Atos - Automação WhatsApp para Igrejas](https://github.com/developedbyBob/atos-whatsapp) | [🌐 Ver Site](#)
 Plataforma SaaS completa de automação de comunicação via WhatsApp para igrejas brasileiras.
 
